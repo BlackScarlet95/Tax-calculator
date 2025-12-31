@@ -1,2 +1,2 @@
 # Tax-calculator
-My project
+Python program to calculate personal income tax based on filing status
